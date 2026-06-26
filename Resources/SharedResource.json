@@ -80,7 +80,7 @@
   "M00079": "Internal error!",
   "M00080": "Bad request.",
   "M00081": "System crash.",
-  "M00082": "",
+  "M00082": "Failed to initialize logs directory.",
   "M00083": "",
   "M00084": "",
   "M00085": "",
