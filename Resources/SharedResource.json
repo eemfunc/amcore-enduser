@@ -136,7 +136,7 @@
   "M00135": "User roles are fetched from database.",
   "M00136": "A new token is generated.",
   "M00137": "Server's fingerprint is ready to be printed.",
-  "M00138": "",
+  "M00138": "Invalid authentication. Possible attack!",
   "M00139": "",
   "M00140": "",
   "M00141": "",
