@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "amcore/1.0.1.73": {
+      "amcore/1.0.1.78": {
         "dependencies": {
           "BCrypt.Net-Next": "4.2.0",
           "Dapper": "2.1.79",
@@ -732,7 +732,7 @@
     }
   },
   "libraries": {
-    "amcore/1.0.1.73": {
+    "amcore/1.0.1.78": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
