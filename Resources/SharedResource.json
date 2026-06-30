@@ -88,7 +88,7 @@
   "M00087": "Forbidden: You do not have permission to access this endpoint.",
   "M00088": "Unauthorized: Authentication is required. HERE!",
   "M00089": "System is switched OFF.",
-  "M00090": "Could not bind to the specified ports. One of the ports is already in use by another process.",
+  "M00090": "Could not bind to the specified ports. The required port is already in use by another process.",
   "M00091": "Application failed to start due to an unexpected error.",
   "M00092": "Inner Exception:",
   "M00093": "Bad request.",
